@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Les 7 merveilles du monde</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="newcss.css" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+    <body>
+        <div style="text-align:center">
+        </div>
+        <div class="w3-container w3-lobster">
+            <p class="w3-xlarge font-effect-shadow-multiple">Making the Web!</p>
+            <p class="w3-xxlarge font-effect-shadow-multiple">Making the Web!</p>
+            <p class="w3-xxxlarge font-effect-shadow-multiple">Making the Web!</p>
+        </div>
+        <div style="text-align:center">
+            
+    </body>
+</html>
