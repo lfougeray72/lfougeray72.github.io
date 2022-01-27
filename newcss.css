@@ -1,98 +1,77 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 4 oct. 2021, 15:51:25
-    Author     : lfougeray
-*/
+.w3-homard {
+  font-family: « Lobster », serif;
+}.w3-conteneur {
 
- body {
-    background-color: burlywood;
 }
-.important {
-    margin: 10px;
-    padding: 5px;
-    background-color: lightsteelblue;
-    border: 1px black solid;
-    text-align: left;
-    width: 100px;
+.w3-allerta {
+  font-family: « Allerta Stencil », Sans-serif;
 }
- hL{
-    color: #6666ff;
+.relative{
+    position:relative;
+    left:725px;
+    bottom:300px;
+    border:5px;
+    width:500px
 }
- h1{
-    color: red;
-    font-family: serif;
-    font-size: 20px;
-    margin-left: 20px;
+.img{
+    position:relative;
+    border-radius:50%;
+    left:625px;
+    bottom:275px;
+    width:650px;
 }
-
-#menu>ul {
-    list-style-type: none;
+.p1{
+    position:relative;
+    bottom:600px;
+    left:50px;
 }
-#menu>ul>li {
-    padding: 5px;
-    background-color: aqua;
-    border-radius: 5px;
-    margin: 5px;
-    width: 50px;
+.collant{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 1px;
+  width:1500px;
+  background-color: grey;
+  z-index:1;
 }
-
-dive {
-    border: 15px solid green;
-    border-radius: 10px;
-    padding: 10px;
-    margin: 25px;
-    width: 300px;
-    height: 50px;
-    background-color: aqua;
+.p2{
+    position:relative;
+    bottom:450px;
+    text-align: center;
 }
-
-div.statique{
-    position: static;
-    padding: 20px;
-    border: 3px solid coral;
-    width: 310px;
+.p3{
+    font-size:160%;
+    font-family:cantaneo;
+    position:relative;
+    bottom:850px;
+    width:550px;
+    left:25px;
+    color:blue;
+    border-style:solid;
+    border-color: red;
 }
-
-div.relative{
-    position: relative;
-    border: 3px solid coral;
-    left: 30px;
-    padding: 20px;
-    width: 310px;
+.img2{
+    width:600px;
+    margin-left: 375px;
 }
-    
-div.relative{
-    position: relative;
-    border: 3px solid coral;
-    height: 200px;
-    width: 400px;
+.p4{
+   font-size:150%;
+   margin-left:150px;
+   width:1100px;
 }
-
-div.fixe{
-    position: fixed;
-    padding: 20px;
-    border: 3px solid coral;
-    right: 0px;
-    bottom: 0px;
-}    
-
-div.absolue{
-    position: absolute;
-    top: 80px;
-    right: 5px;
-    bottom: 5px;
-    width: 200px;
-    height: 100px;
-    border: 3px solid coral;
+.titre2{
+    font-size:180%;
+    text-align:center;
+    color:#ff6666;
 }
-
-image{
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    z-index: -1;
+.titre{
+    font-size:250%;
+    color:purple;
+    text-align:center;
+}
+.t{
+    border:1px black solid;
+    width:10%
+}
+.tableau{
+    margin-top:10px
 }
